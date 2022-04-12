@@ -1,0 +1,3 @@
+git config --global user.name "SJN"
+git config --global user.email "1764582001@qq.com"
+cd C:\Users\ASUS
